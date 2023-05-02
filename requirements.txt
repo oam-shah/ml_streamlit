@@ -1,6 +1,5 @@
 alabaster==0.7.12
 altair==4.2.2
-anaconda-client==1.2.2
 anaconda-project @ git+https://github.com/Anaconda-Platform/anaconda-project@6bc61a599c7e3a6bade891cbc1553a161d880ee9
 args==0.1.0
 asn1crypto==1.0.1
@@ -33,7 +32,7 @@ chardet==3.0.4
 Click==7.0
 clint==0.5.1
 cloudpickle==1.2.2
-clyent==0.2.1
+clyent==0.1.2
 colorama==0.4.1
 comtypes==1.1.7
 configparser==5.0.0
